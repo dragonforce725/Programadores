@@ -1,0 +1,19 @@
+codigo nosso que está em C
+sasntificado seja vosso console
+venha a nós o vosso array[10]
+e seja feita, sim,
+{vossa
+chave}
+assim no if{
+}
+como no else{
+}
+o for (nosso; de cada dia; nos dai hoje++)
+Debugai as nossas sentenças
+assim como nós colocamos
+O ponto e virgula esquecido
+e não nos
+	deixeis errar
+		identação
+mas livrai-nos das funções recursivas
+a main()
